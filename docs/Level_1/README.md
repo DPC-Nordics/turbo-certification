@@ -6,14 +6,14 @@ Here are some introductory tasks for DPC Turbo. Listed below each task are the c
 
 To get the certification you need to complete the tasks and show that you've grasped the concepts.
 
-1. [Setup and GitHub](1-setup-github.md)
-2. [UI components](2-ui-components.md)
-3. [NextJS Pages](3-nextjs-pages.md)
-4. [Redux Toolkit](4-redux-toolkit.md)
-5. [RTK Query](5-rtk-query.md)
-6. [RTK Query - Mutations](6-rtk-query-mutations.md)
+1. [Setup and GitHub](./1-setup-github.md)
+2. [UI components](./2-ui-components.md)
+3. [NextJS Pages](./3-nextjs-pages.md)
+4. [Redux Toolkit](./4-redux-toolkit.md)
+5. [RTK Query](./5-rtk-query.md)
+6. [RTK Query - Mutations](./6-rtk-query-mutations.md)
 
-You can use the [references](references.md) for assistance during the tasks.
+You can use the [references](./references.md) for assistance during the tasks.
 
 Once, you're done with all the tasks, you can request a review on your PR from following reviewers:
 

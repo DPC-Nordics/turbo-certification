@@ -1,3 +1,11 @@
-# DPC Turbo - Developer Certification
+# fresh project
 
-- [Level 1](Level_1/README.md)
+## Usage
+
+Start the project:
+
+```sh
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
