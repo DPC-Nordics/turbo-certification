@@ -1,6 +1,6 @@
 # DPC Turbo Developer Certification - Level 1
 
-[< Back](index.md)
+[< Back](README.md)
 
 ## Task 1: Setup and GitHub
 
